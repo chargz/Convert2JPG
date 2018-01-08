@@ -1,7 +1,7 @@
 # Convert2JPG
 
 
-Converts a bunch of `.png` images to `.jpeg`.
+Converts a bunch of `.png` images to `.jpeg`
 ## Installation:
   - pip is needed. You can install using `sudo apt-get install python-pip`
   - Run `pip install pillow`
