@@ -8,7 +8,7 @@ bb = str(path)+"/*.png"
 filenamewpath = glob.glob(bb)
 leng = len(filenamewpath)
 
-if leng = 0:
+if leng == 0:
 		print "Did you get the path right? Looks like no PNG was found."
 
 elif leng >= 1:
